@@ -1,18 +1,21 @@
 {
-	"geode": "4.1.1",
+	"geode": "4.0.1",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "v0.0.1 alpha",
+	"version": "v0.0.0", 
+	"id": "omenun.better-control",
 	"name": "Better Control",
-	"version": "v0.0.1 alpha",
 	"developer": "Omenun",
-	"description": "Your console controls now work better with Geometry Dash. ",
-    "links": {
-        "homepage": 
-        "source":  "https://github.com/AlexxYet/Better-Control",
-        "community": 
+	"description": "Standard node IDs to be used by other mods.",
+	"links": {
+		"source": "h"
+	},
+	"issues": {
+		"url": "g",
+		"info": "v."
+	}
 }
