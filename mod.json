@@ -7,10 +7,10 @@
 		"ios": "2.2074"
 	},
 	"id": "v0.0.1 alpha",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"name": "Better Control",
+	"version": "v0.0.1 alpha",
+	"developer": "Omenun",
+	"description": "Your console controls now work better with Geometry Dash. ",
     "links": {
         "homepage": 
         "source":  "https://github.com/AlexxYet/Better-Control",
