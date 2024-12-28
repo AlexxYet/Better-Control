@@ -1,12 +1,12 @@
 {
-	"geode": "$GEODE_VERSION",
+	"geode": "4.0.1",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "$MOD_ID",
+	"id": "v0.0.1 alpha",
 	"name": "$MOD_NAME",
 	"version": "$MOD_VERSION",
 	"developer": "$MOD_DEVELOPER",
